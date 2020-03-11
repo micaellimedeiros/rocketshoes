@@ -3,8 +3,8 @@
 
 ### App
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android1.png" width="60%" height="60%"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android-2.png" width="60%" height="60%">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android3.png" width="60%" height="60%"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android4.png" width="60%" height="60%">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android1.png" width="50%" height="50%"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android-2.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android3.png" width="50%" height="50%"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/.github/exemple-android4.png" width="50%" height="50%">
 
 ## Como fazer funcionar em sua máquina
 
