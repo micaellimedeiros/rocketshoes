@@ -1,5 +1,5 @@
-<table align="center"><tr><td align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/web/.github/logo_2.png">
+<table align="center"><tr><td align="center" width="9999">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/web/.github/logo_2.png" align="center">
 :shoe: E-commerce construído com React Native, Redux and Redux-Saga
 </td></tr></table>
 
