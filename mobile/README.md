@@ -1,7 +1,7 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/src/assets/images/logo.png">
-</h1>
+<table align="center"><tr><td align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/web/.github/logo_2.png">
 :shoe: E-commerce construído com React Native, Redux and Redux-Saga
+</td></tr></table>
 
 ### App
 
