@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/web/.github/logo_2.png" align="center">
 </h1>
 
-<h3 align="center">E-commerce construído com React Native, Redux and Redux-Saga</h3>
+<h3 align="center">E-commerce construído com React Native, Redux e Redux-Saga</h3>
 
 ### App
 
@@ -23,4 +23,4 @@ react-native run-android
 # ios:
 react-native run-ios
 
-OBS: O App foi construído e testado somente em Android.
+OBS: Construído e testado somente em Android.
