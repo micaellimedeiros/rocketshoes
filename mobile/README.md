@@ -1,5 +1,7 @@
-# RocketShoes
-:shoe: Sample store built with React Native, Redux and Redux-Saga
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/rocketshoes/master/mobile/src/assets/images/logo.png">
+</h1>
+:shoe: E-commerce construído com React Native, Redux and Redux-Saga
 
 ### App
 
