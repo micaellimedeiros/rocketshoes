@@ -17,4 +17,15 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/Rocketshoes/master/web/.github/Rocketshoes(3).png" width="70%" height="70%">
   </h1>
 
+## Como fazer funcionar em sua máquina
+
+```sh
+yarn
+
+# start the yarn
+yarn start
+
+# start the json-server api
+yarn json-server server.json -p 3333
+
   This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
